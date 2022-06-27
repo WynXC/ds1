@@ -7,7 +7,7 @@ const collectionInfo = {
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "nft.jpg",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
