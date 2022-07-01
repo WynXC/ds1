@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Future Wars",
+    name: "Mystical Masks",
     title: "{name}",
-    date: "29.06.2022",
+    date: "01.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,17 +12,17 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.png",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2,
-    totalSupply: 4777,
+    price: 2.5,
+    totalSupply: 4444,
     toFixed: 1,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 1,
     askMintLoop: true,
 }
 
