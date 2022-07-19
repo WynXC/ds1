@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "Mystical Masks",
+    name: "Hitman Penguin",
     title: "{name}",
-    date: "01.07.2022",
+    date: "19.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,11 +18,11 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 2.5,
+    price: 1.25,
     totalSupply: 4444,
-    toFixed: 1,
+    toFixed: 2,
     minUnits: 1,
-    maxUnits: 1,
+    maxUnits: 3,
     askMintLoop: true,
 }
 
