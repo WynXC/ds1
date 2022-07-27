@@ -18,18 +18,18 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.15,
+    price: 0.379,
     totalSupply: 4444,
-    toFixed: 2,
+    toFixed: 3,
     minUnits: 1,
-    maxUnits: 1,
+    maxUnits: 5,
     askMintLoop: true,
 }
 
 const nftsInfo = {
     active: true,
     minValue: 0.3,
-    maxTransfer: 5,
+    maxTransfer: 10,
 }
 
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);
