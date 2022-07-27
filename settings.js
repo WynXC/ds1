@@ -1,7 +1,7 @@
 const collectionInfo = {
     name: "Hitman Penguin",
     title: "{name}",
-    date: "19.07.2022",
+    date: "27.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,11 +18,11 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.25,
+    price: 1.15,
     totalSupply: 4444,
     toFixed: 2,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 1,
     askMintLoop: true,
 }
 
