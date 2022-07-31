@@ -1,13 +1,13 @@
 const collectionInfo = {
     name: "Cool Camels",
     title: "{name}",
-    date: "28.07.2022",
+    date: "31.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "logo.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
@@ -22,7 +22,7 @@ const mintInfo = {
     totalSupply: 4444,
     toFixed: 1,
     minUnits: 1,
-    maxUnits: 1,
+    maxUnits: 2,
     askMintLoop: true,
 }
 
