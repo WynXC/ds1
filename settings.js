@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Cool Camels",
+    name: "ApachesNFT",
     title: "{name}",
-    date: "31.07.2022",
+    date: "12.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 1.8,
     totalSupply: 4444,
     toFixed: 1,
     minUnits: 1,
@@ -28,7 +28,7 @@ const mintInfo = {
 
 const nftsInfo = {
     active: true,
-    minValue: 0.3,
+    minValue: 0.2,
     maxTransfer: 10,
 }
 
