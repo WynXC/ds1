@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "ApachesNFT",
+    name: "SOLSWIPE",
     title: "{name}",
-    date: "12.08.2022",
+    date: "16.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -11,16 +11,16 @@ const collectionInfo = {
         favicon: "logo.jpg",
     },
     background: {
-        type: "image",
-        image: "bg.jpg",
-        video: "",
+        type: "video",
+        image: "",
+        video: "1.mp4",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1.8,
+    price: 1.25,
     totalSupply: 4444,
-    toFixed: 1,
+    toFixed: 2,
     minUnits: 1,
     maxUnits: 2,
     askMintLoop: true,
