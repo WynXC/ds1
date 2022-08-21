@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "SOLSWIPE",
+    name: "Zakirō",
     title: "{name}",
-    date: "16.08.2022",
+    date: "21.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -11,14 +11,14 @@ const collectionInfo = {
         favicon: "logo.jpg",
     },
     background: {
-        type: "video",
-        image: "",
-        video: "1.mp4",
+        type: "image",
+        image: "bg.jpg",
+        video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1.25,
+    price: 1.55,
     totalSupply: 4444,
     toFixed: 2,
     minUnits: 1,
