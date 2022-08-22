@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "Zakirō",
+    name: "ApeShitSociety",
     title: "{name}",
-    date: "21.08.2022",
+    date: "22.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.55,
+    price: 1.25,
     totalSupply: 4444,
     toFixed: 2,
     minUnits: 1,
