@@ -1,7 +1,7 @@
 const collectionInfo = {
     name: "ApeShitSociety",
     title: "{name}",
-    date: "22.08.2022",
+    date: "23.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,9 +18,9 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.25,
+    price: 1,
     totalSupply: 4444,
-    toFixed: 2,
+    toFixed: 1,
     minUnits: 1,
     maxUnits: 2,
     askMintLoop: true,
