@@ -1,24 +1,24 @@
 const collectionInfo = {
-    name: "ApeShitSociety",
+    name: "SOLSWIPE",
     title: "{name}",
-    date: "23.08.2022",
+    date: "25.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "logo.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
-        type: "image",
-        image: "bg.jpg",
-        video: "",
+        type: "video",
+        image: "",
+        video: "1.mp4",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 1.25,
     totalSupply: 4444,
     toFixed: 1,
     minUnits: 1,
